@@ -1,0 +1,10 @@
+
+# Ignore Go executable files
+*.exe
+
+# Ignore environment files
+.env
+.env.*
+
+# Allow example environment file
+!.env.example
